@@ -1,0 +1,38 @@
+[
+ {
+  "directory": "C:\\Users\\rossj\\code\\vulkan\\triangle",
+  "arguments": [
+   "gcc",
+   "-std=c11",
+   "-Wall",
+   "-Wextra",
+   "-Iinclude",
+   "-IC:/VulkanSDK/1.4.309.0/include",
+   "-Ilibs/glfw/include",
+   "-Ilibs/cglm/include",
+   "-c",
+   "src/main.c",
+   "-o",
+   "obj/main.o"
+  ],
+  "file": "src/main.c"
+ },
+ {
+  "directory": "C:\\Users\\rossj\\code\\vulkan\\triangle",
+  "arguments": [
+   "gcc",
+   "-std=c11",
+   "-Wall",
+   "-Wextra",
+   "-Iinclude",
+   "-IC:/VulkanSDK/1.4.309.0/include",
+   "-Ilibs/glfw/include",
+   "-Ilibs/cglm/include",
+   "-c",
+   "src/triangle.c",
+   "-o",
+   "obj/triangle.o"
+  ],
+  "file": "src/triangle.c"
+ }
+]
