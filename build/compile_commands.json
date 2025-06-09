@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/john/code/gameEngine/build",
+  "command": "/usr/bin/cc  -I/home/john/code/gameEngine/include -I/usr/include/vulkan -I/usr/include/GLFW -I/home/john/code/gameEngine/libs/cglm/include -std=gnu11 -Wall -Wextra -o CMakeFiles/vulk.dir/src/main.c.o -c /home/john/code/gameEngine/src/main.c",
+  "file": "/home/john/code/gameEngine/src/main.c",
+  "output": "CMakeFiles/vulk.dir/src/main.c.o"
+},
+{
+  "directory": "/home/john/code/gameEngine/build",
+  "command": "/usr/bin/cc  -I/home/john/code/gameEngine/include -I/usr/include/vulkan -I/usr/include/GLFW -I/home/john/code/gameEngine/libs/cglm/include -std=gnu11 -Wall -Wextra -o CMakeFiles/vulk.dir/src/triangle.c.o -c /home/john/code/gameEngine/src/triangle.c",
+  "file": "/home/john/code/gameEngine/src/triangle.c",
+  "output": "CMakeFiles/vulk.dir/src/triangle.c.o"
+},
+{
+  "directory": "/home/john/code/gameEngine/build",
+  "command": "/usr/bin/cc  -I/home/john/code/gameEngine/include -I/usr/include/vulkan -I/usr/include/GLFW -I/home/john/code/gameEngine/libs/cglm/include -std=gnu11 -Wall -Wextra -o CMakeFiles/vulk.dir/src/window_init.c.o -c /home/john/code/gameEngine/src/window_init.c",
+  "file": "/home/john/code/gameEngine/src/window_init.c",
+  "output": "CMakeFiles/vulk.dir/src/window_init.c.o"
+}
+]

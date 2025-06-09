@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/vulk.dir/link.d CMakeFiles/vulk.dir/src/main.c.o CMakeFiles/vulk.dir/src/triangle.c.o CMakeFiles/vulk.dir/src/window_init.c.o -o /home/john/code/gameEngine/bin/vulk   -L/home/john/code/gameEngine/libs/glfw/lib  -Wl,-rpath,/home/john/code/gameEngine/libs/glfw/lib -lglfw -lvulkan -lm
